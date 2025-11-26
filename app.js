@@ -1,1 +1,1 @@
-console.log(Version 1 - local);
+console.log("Version 3 - local update without pulling");
