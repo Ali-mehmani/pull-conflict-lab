@@ -1,1 +1,2 @@
-console.log(Version 1 - local);
+console.log("Version 2 - remote update from GitHub");
+
